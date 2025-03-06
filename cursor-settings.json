@@ -1,0 +1,27 @@
+{
+  "editor.fontSize": 14,
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.renderWhitespace": "boundary",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+
+  "breadcrumbs.enabled": false,
+  "workbench.tips.enabled": false,
+
+  "workbench.sideBar.location": "right",
+  "workbench.colorTheme": "Min Dark",
+  "workbench.preferredLightColorTheme": "Min Light",
+  "workbench.preferredDarkColorTheme": "Min Dark",
+  "workbench.iconTheme": "symbols",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.tree.enableStickyScroll": true,
+  "workbench.tree.indent": 8,
+  "workbench.tree.renderIndentGuides": "none",
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.decorations.badges": false,
+  "symbols.hidesExplorerArrows": true,
+
+  "git.confirmSync": false,
+  "diffEditor.ignoreTrimWhitespace": false
+}
